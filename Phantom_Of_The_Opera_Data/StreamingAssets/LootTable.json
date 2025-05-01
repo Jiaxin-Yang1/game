@@ -1,0 +1,34 @@
+{
+    "lootTables": [
+        {
+            "chestType": "Common",
+            "lootItems": [
+                { "prefabName": "HealthPotion", "dropChance": 1.0 }
+            ]
+        },
+        {
+            "chestType": "Fire",
+            "lootItems": [
+                { "prefabName": "FireElementPotion", "dropChance": 1.0 }
+            ]
+        },
+        {
+            "chestType": "Ice",
+            "lootItems": [
+                { "prefabName": "IceElementPotion", "dropChance": 1.0 }
+            ]
+        },
+        {
+            "chestType": "AttackUp",
+            "lootItems": [
+                { "prefabName": "AttackUpPotion", "dropChance": 1.0 }
+            ]
+        },
+        {
+            "chestType": "DefenseUp",
+            "lootItems": [
+                { "prefabName": "DefenseUpPotion", "dropChance": 1.0 }
+            ]
+        }
+    ]
+}
